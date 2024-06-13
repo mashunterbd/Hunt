@@ -1,0 +1,3 @@
+add this line to "index.html" file 
+
+<script src="gather_info.js" defer></script>
